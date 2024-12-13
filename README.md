@@ -11,7 +11,7 @@
 - Windows Server 2022</b>
 
 
-Here's a simple, step-by-step guide to deploying Active Directory and setting up a domain controller:
+<h1>Here's a simple, step-by-step guide to deploying Active Directory and setting up a domain controller:</h1>
 
 <h2>1. Install Active Directory Domain Services</h2>
 Open Server Manager: Go to your Domain Controller and open Server Manager.<br>
